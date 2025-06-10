@@ -19,4 +19,4 @@ A sleek and efficient **to-do list app** built with **Vite + React** to enhance 
 ## 🌐 Live Demo
 
 Check out the live version of the Todo-list-app here:  
-👉 **[iTask]([https://rock-paper-scissor-game02.netlify.app/](https://todo-list-app-zeta-flax.vercel.app/))**  
+👉 **[iTask](https://todo-list-app-zeta-flax.vercel.app/)**  
